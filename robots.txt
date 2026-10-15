@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-3521fee937.donglanrc.cn/sitemap.xml
